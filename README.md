@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mahmoud</h1>
 <h3 align="center">A passionate computer science student with expertise in various programming languages, including C#, ASP.NET, C++, Python, Java, and Rust, is seeking an internship opportunity to apply their skills in real-world projects. They are interested in data science and machine learning, and are committed to academic excellence and a strong foundation in programming principles.</h3>
 
-- 💬 Ask me about **c#,Asp.netcore,java,spring**
-
 - 📫 How to reach me **M.mohamed2213@nu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmohamed125&show_icons=true&locale=en" alt="mahmoudmohamed125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamed125&" alt="mahmoudmohamed125" /></p>
+
