@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Mahmoud</h1>
-<h3 align="center">A passionate computer science student with expertise in various programming languages, including C#, ASP.NET, C++, Python, Java, and Rust, is seeking an internship opportunity to apply their skills in real-world projects. They are interested in data science and machine learning, and are committed to academic excellence and a strong foundation in programming principles.</h3>
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Welcome to Mahmoud Mohamed 's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=software%20 engineering;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+- 🏢 I'm a Software Engineer 
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with c#, Asp.net,java,Spring framework ;
 
 - 📫 How to reach me **M.mohamed2213@nu.edu.eg**
 
